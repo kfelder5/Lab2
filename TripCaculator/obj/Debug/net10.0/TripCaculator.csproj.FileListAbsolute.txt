@@ -1,0 +1,14 @@
+C:\Users\felderk\Downloads\Lab2\TripCaculator\bin\Debug\net10.0\TripCaculator.exe
+C:\Users\felderk\Downloads\Lab2\TripCaculator\bin\Debug\net10.0\TripCaculator.deps.json
+C:\Users\felderk\Downloads\Lab2\TripCaculator\bin\Debug\net10.0\TripCaculator.runtimeconfig.json
+C:\Users\felderk\Downloads\Lab2\TripCaculator\bin\Debug\net10.0\TripCaculator.dll
+C:\Users\felderk\Downloads\Lab2\TripCaculator\bin\Debug\net10.0\TripCaculator.pdb
+C:\Users\felderk\Downloads\Lab2\TripCaculator\obj\Debug\net10.0\TripCaculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felderk\Downloads\Lab2\TripCaculator\obj\Debug\net10.0\TripCaculator.AssemblyInfoInputs.cache
+C:\Users\felderk\Downloads\Lab2\TripCaculator\obj\Debug\net10.0\TripCaculator.AssemblyInfo.cs
+C:\Users\felderk\Downloads\Lab2\TripCaculator\obj\Debug\net10.0\TripCaculator.csproj.CoreCompileInputs.cache
+C:\Users\felderk\Downloads\Lab2\TripCaculator\obj\Debug\net10.0\TripCaculator.dll
+C:\Users\felderk\Downloads\Lab2\TripCaculator\obj\Debug\net10.0\refint\TripCaculator.dll
+C:\Users\felderk\Downloads\Lab2\TripCaculator\obj\Debug\net10.0\TripCaculator.pdb
+C:\Users\felderk\Downloads\Lab2\TripCaculator\obj\Debug\net10.0\TripCaculator.genruntimeconfig.cache
+C:\Users\felderk\Downloads\Lab2\TripCaculator\obj\Debug\net10.0\ref\TripCaculator.dll
